@@ -10,7 +10,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 
-# Interested
+# Interested in . . .
 
 
   ### Real-Time-Rendering
@@ -19,10 +19,10 @@ You can click the Preview link to take a look at your changes.
   ### Physically-Based-Rendering
 
 
-# Learning
+# Currently Learning . . .
 
 
   ### OpenGL
 
 
-### Email - sangjjang96@gmail.com
+##### Email - sangjjang96@gmail.com
