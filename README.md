@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @sangjjang96
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
 <!---
@@ -13,17 +12,23 @@ You can click the Preview link to take a look at your changes.
 # Interested in . . .
 
 
-  ### Real-Time-Rendering
+  ### Generative Models
+  - 3D-aware GAN
+  - Stable Diffusion
 
 
-  ### Physically-Based-Rendering
+  ### NeRF
+  - Neural Radiance Fields
+  - Instant NGP
 
 -----------
 
 # Currently Learning . . .
 
 
-  ### OpenGL
+  ### Stable Diffusion
+  ### DDPM
+  ### DDIM
 
 -----------
 
