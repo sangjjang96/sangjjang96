@@ -35,4 +35,4 @@ You can click the Preview link to take a look at your changes.
 # Contact . . .
 
 ##### Email - sangjjang96@gmail.com
-##### [CV](https://drive.google.com/file/d/1BvA3bMoRegwhU1o95VqXRjrJ0a3km-Rv/view?usp=sharing)
+##### [CV]([https://drive.google.com/file/d/1BvA3bMoRegwhU1o95VqXRjrJ0a3km-Rv/view?usp=sharing](https://drive.google.com/file/d/1goplNygfxhbKOIpN1HY42fY_KqNCxNaZ/view?usp=sharing))
