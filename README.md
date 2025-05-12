@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @sangjjang96
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
 - 📫 How to reach me ...
 
 <!---
@@ -20,15 +19,6 @@ You can click the Preview link to take a look at your changes.
   ### NeRF
   - Neural Radiance Fields
   - Instant NGP
-
------------
-
-# Currently Learning . . .
-
-
-  ### Stable Diffusion
-  ### DDPM
-  ### DDIM
 
 -----------
 
