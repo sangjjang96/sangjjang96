@@ -1,3 +1,5 @@
+![header](https://capsule-render.vercel.app/api?type=wave&color=timeAuto&height=300&section=header&text=Sangyeol%20Kwak&fontSize=90)
+
 - 👋 Hi, I’m @sangjjang96
 - 👀 I’m interested in ...
 - 📫 How to reach me ...
@@ -21,6 +23,10 @@ You can click the Preview link to take a look at your changes.
   - Instant NGP
 
 -----------
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sangjjang96&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sangjjang96&layout=compact)
 
 # Contact . . .
 
