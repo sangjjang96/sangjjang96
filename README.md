@@ -32,9 +32,9 @@
     </div>
 
 <div>
-  <img alt="algorithms" src="http://mazassumnida.wtf/api/generate_badge?boj=sangjjang96" width="42%" height="100%"/>
+        <a href="https://github.com/sangjjang96"><img src="https://github-readme-stats-sigma-five.vercel.app/api?username=sangjjang96&show_icons=true&include_all_commits=true&theme=nord&hide_border=true" alt="Sangyeol's github stats" /></a>
+    <a href="https://github.com/sangjjang96"><img  src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sangjjang96&layout=compact&theme=nord&hide_border=true" /></a> 
 </div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sangjjang96&layout=compact)](https://github.com/sangjjang96/github-readme-stats)
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sangjjang96)](https://github.com/sangjjang96/github-readme-stats)
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=sangjjang96)](https://solved.ac/sangjjang96)
