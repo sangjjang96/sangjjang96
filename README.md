@@ -25,12 +25,16 @@
     <div style="text-align: left;"> <a href=https://www.notion.so/sangyeol2/Kwak-Sangyeol-09307ba27a384d5991f1008cc47956db?source=copy_link> <img src="https://img.shields.io/badge/Notion-000000?style=plastic&logo=Notion&logoColor=white&link=https://www.notion.so/sangyeol2/Kwak-Sangyeol-09307ba27a384d5991f1008cc47956db?source=copy_link"> </a>
          <a href=mailto:sangjjang96@gmail.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=plastic&logo=Gmail&logoColor=white&link=mailto:sangjjang96@gmail.com"> </a>
           </div>  <br> 
-    <div style="text-align: left;"> <a href="https://hits.seeyoufarm.com"> <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsangjjang96%2F&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=GitHub&edge_flat=false"/></a>
-       </div> 
+    <div style="text-align: left;">  </div> 
     </div>
     <div style="text-align: left;"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> <div style="text-align: left;"> <img src="https://github-readme-stats.vercel.app/api?username=sangjjang96&custom_title=sangjjang96's Github Stat&bg_color=180,000000,&title_color=000000&text_color=000000"
-        /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sangjjang96&layout=compact&bg_color=180,000000,&title_color=000000&text_color=000000"
-          /> </div> 
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> <div style="text-align: left;">   </div> 
     </div>
-    
+
+<div>
+  <img alt="stats" align="left" src="https://github-readme-stats.vercel.app/api?username=sangjjang96&show_icons=true&theme=holi" width = "49%" height="130%" />
+  <img alt="algorithms" src="http://mazassumnida.wtf/api/generate_badge?boj=sangjjang96" width="42%" height="100%"/>
+</div>
+<div>
+  <img height=200 align="left"src="https://github-readme-stats.vercel.app/api/top-langs/?username=sangjjang96&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true&size_weight=0.5&count_weight=0.5"/>
+</div>
