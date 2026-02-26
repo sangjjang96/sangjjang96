@@ -35,6 +35,6 @@
   <img alt="algorithms" src="http://mazassumnida.wtf/api/generate_badge?boj=sangjjang96" width="42%" height="100%"/>
 </div>
 
-<a href="https://github.com/sangjjang96"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=sangjjang96&show_icons=true&include_all_commits=true&theme=nord&hide_border=true" alt="Sangyeol's github stats" /></a>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sangjjang96&layout=compact)](https://github.com/sangjjang96/github-readme-stats)
 
-<a href="https://github.com/sangjjang96"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sangjjang96&layout=compact&theme=nord&hide_border=true" alt="Sangyeol's Top Langs" /></a> 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sangjjang96)](https://github.com/sangjjang96/github-readme-stats)
